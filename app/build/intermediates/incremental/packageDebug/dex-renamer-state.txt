@@ -1,0 +1,7 @@
+#Mon Mar 20 19:51:39 BRT 2017
+base.0=C\:\\Users\\fabio\\Desktop\\RecyclerSQLiteExample-master\\ProjetoAndroidFinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9b4cbd8c458b0d784a24f8968912cf5199dec2e6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\fabio\\Desktop\\RecyclerSQLiteExample-master\\ProjetoAndroidFinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c660efe19e131b9787cb2e3ba41ad8d4db8f727f\\classes.dex
+base.1=C\:\\Users\\fabio\\Desktop\\RecyclerSQLiteExample-master\\ProjetoAndroidFinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c660efe19e131b9787cb2e3ba41ad8d4db8f727f
+file.0=C\:\\Users\\fabio\\Desktop\\RecyclerSQLiteExample-master\\ProjetoAndroidFinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9b4cbd8c458b0d784a24f8968912cf5199dec2e6\\classes.dex

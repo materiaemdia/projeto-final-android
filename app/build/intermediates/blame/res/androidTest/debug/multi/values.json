@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\fabio\\Desktop\\RecyclerSQLiteExample-master\\ProjetoAndroidFinal\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\fabio\\.android\\build-cache\\b0eb20d298cf0b0a9c694978d12bc501116885c3\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

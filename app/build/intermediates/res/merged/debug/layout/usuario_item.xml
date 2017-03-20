@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:orientation="horizontal"
+    card_view:cardCornerRadius="5dp"
+    card_view:cardUseCompatPadding="true" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:selectableItemBackground">
+
+        <TextView
+            android:id="@+id/tvNome"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="left"
+            android:padding="10dp"
+            android:text="@string/data_name"
+            android:textColor="@android:color/black"/>
+
+        <ImageButton
+            android:id="@+id/imgDelete"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignBottom="@+id/tvNome"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:onClick="deletar"
+            android:scaleType="fitCenter"
+            card_view:srcCompat="@drawable/ic_icon_delete" />
+
+        <ImageButton
+            android:id="@+id/imgEdit"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            card_view:srcCompat="@drawable/ic_icon_edit"
+            android:layout_marginRight="12dp"
+            android:layout_alignTop="@+id/imgDelete"
+            android:layout_toLeftOf="@+id/imgDelete"
+            android:layout_toStartOf="@+id/imgDelete"
+            android:layout_marginEnd="12dp"
+            android:layout_alignBottom="@+id/imgDelete"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
